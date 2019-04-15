@@ -1,4 +1,5 @@
-#su
+#!/bin/sh
+
 echo ""
 echo $PATH
 
